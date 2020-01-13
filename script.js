@@ -21,3 +21,17 @@ studentNames[3] = 'Arwa'
 console.log(studentNames)
 
 console.log(studentNames[2])
+
+// Adds to the end of an array
+studentNames.push('Rafael')
+
+// Removes the last item of an array
+studentNames.pop()
+
+// Adds...
+studentNames.shift('Rafael')
+
+// Removes...
+studentNames.unshift('Rafael')
+
+//
