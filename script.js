@@ -13,3 +13,11 @@ console.log(`The result divided by 5 is ${(product * 5) / number}`)
 
 let finalValue = (product * 5) / number
 console.log(`The result minus 7 is ${finalValue - 7}.`)
+
+let studentNames = ['Keira', 'Pedro', 'Lasith']
+
+studentNames[3] = 'Arwa'
+
+console.log(studentNames)
+
+console.log(studentNames[2])
